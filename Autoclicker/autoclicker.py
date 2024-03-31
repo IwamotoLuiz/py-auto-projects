@@ -4,8 +4,8 @@ import threading
 
 autoclicker_active = False
 autoclick_thread = None
-click_delay = 0.00001
 
+click_delay = 0.00001 # defines the time between clicks
 on_off_key = 'F2'  # defines which key starts/stops the autoclicker
 exit_key = 'esc'  # defines which key exits the application
 
